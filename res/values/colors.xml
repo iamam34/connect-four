@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grid">#dddddd</color>
+    <color name="light_player">#ffe100</color>
+    <color name="dark_player">#ff0024</color>
+    <color name="board">#3900ff</color>
+
+</resources>
