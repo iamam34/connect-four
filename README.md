@@ -2,6 +2,7 @@ connect-four
 ============
 
 Connect Four for Android
+
 An Android app for two players. 
 Initially written as a refresher for Android development in October/November 2013.
 
